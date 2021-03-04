@@ -26,7 +26,8 @@ body{
     border-top-left-radius: 10px;
 }
 
-.window_register_title, h1 {
+.window_register_title, 
+h1 {
     color: white;
     margin: 0;
     text-align: center;
@@ -44,10 +45,10 @@ body{
 }
 
 .form-control {
-padding: 10px 20px;
-width: 320px;
-border-radius: 10px;
-border: 0px;
+    padding: 10px 20px;
+    width: 320px;
+    border-radius: 10px;
+    border: 0px;
 }
 
 .form-group {
@@ -56,8 +57,8 @@ border: 0px;
 }
 
 .form-check {
-position: absolute;
-top: 50%;
+    position: absolute;
+    top: 50%;
 }
 
 .checkbox-paragraph{
